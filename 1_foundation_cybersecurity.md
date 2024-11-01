@@ -87,5 +87,5 @@
 
     - **Security information and event management (SIEM) tools** - SIEM tools collect and analyze log data, or records of events such as unusual login behavior, and support analysts' ability to monitor critical activities in and organization. This helps cybersecurity professionals identify and analyze potential security threats, risks, and vulnerabilities more efficiently.
 
-    - 
+    - **Intrusion detection systems (IDSs)** - Cybersecurity analyst use IDSs to monitor system activity and alerts for possible intrusions. It's important to become familiar with IDSs because they're key tool that every organization uses to protect assets and data. For example, you might use and IDS to monitor networks for signs of malicious activity, like unauthorized access to a network.
 ### Review: Welcome to the exiting world of cybersecurity
